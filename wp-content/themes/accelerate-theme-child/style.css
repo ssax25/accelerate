@@ -1,3 +1,12 @@
+/*
+ Theme Name:   Accelerate Theme Child
+ Description:  Accelerate Child Theme - Accelerate
+ Author:       Your Name!
+ Template:     accelerate-theme
+ Version:      1.0.0
+ Text Domain:  accelerate-theme-child
+*/
+
 @import url("../accelerate-theme/style.css");
 
 .home-page {
